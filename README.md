@@ -1,0 +1,1 @@
+# Persian-Calculater-by-PyQT6
